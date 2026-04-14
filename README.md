@@ -8,6 +8,9 @@ Random competitive programming solutions (and other stuff).
 
 - Codeforces : [Codeforces Profile](https://codeforces.com/profile/Joe1.9) — `Joe1.9`
 
+## 🗺️ Learning Roadmap :
+
+- Problem Solving : [Roadmap Link](https://roadmap.sh/r/problem-solving-u8am0)
 
 ## 📂 List of contents :
 
