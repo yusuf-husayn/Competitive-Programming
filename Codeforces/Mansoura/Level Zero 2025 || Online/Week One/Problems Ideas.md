@@ -1,4 +1,4 @@
-# 📘 Competitive Programming Cheat Sheet
+# 📘 Week One Cheat Sheet
 
 ---
 
