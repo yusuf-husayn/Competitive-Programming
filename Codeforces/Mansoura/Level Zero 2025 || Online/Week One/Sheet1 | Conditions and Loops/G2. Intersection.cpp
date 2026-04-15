@@ -1,4 +1,4 @@
-// ﷽
+// ∩╖╜
 // Contest: Sheet One || Conditions and Loops
 // Judge: Codeforces
 // URL: https://codeforces.com/group/vtfsyP8jkN/contest/591913/problem/G2
@@ -44,7 +44,8 @@ ostream &operator<<(ostream &output, const vector<T> &data) {
 
 void solve() {
   int L1, R1, L2, R2; cin >> L1 >>  R1 >> L2 >> R2;
-  if(max(L1, R1) >= min(L2, R2)) cout << L2 << " " << R1 << endl;
+  int start = max(L1, L2), end = min(R1, R2);
+  if(start <= end) cout << start << " " << end << endl;
   else cout << -1 << endl;
 }
 int32_t main() {
