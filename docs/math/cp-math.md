@@ -8,7 +8,7 @@
 
 ---
 
->[!CAUTION] 
+>[!TIP] 
 > # 2) Sum of squares from 1 to n
 >
 >$$
