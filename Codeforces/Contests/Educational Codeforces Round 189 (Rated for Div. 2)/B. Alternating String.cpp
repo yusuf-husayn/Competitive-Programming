@@ -46,9 +46,9 @@ void solve() {
   string s; cin >> s;
 
   int cnt {0};
-  for(int i = 0; i < (int)s.length() - 1; i++){
+  for(int i = 0; i < (int)s.length() - 1; i++)
     if(s[i] == s[i + 1]) cnt++;
-  }
+  
   cout << ((cnt <= 2) ? "YES" : "NO") << endl;
 }
 int32_t main() {
