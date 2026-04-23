@@ -47,7 +47,7 @@ revision: 0
 >     // قراءة السطر كله علشان منضيعش الحروف اللي بعد المسافات
 >     getline(cin, S);
 >     
->     // طباعة طول الـ String مباشرة
+>      // String طباعة طول ال
 >     cout << S.length() << endl;
 > }
 > ```
@@ -89,14 +89,14 @@ revision: 0
 >     int N, M; cin >> N >> M;
 >     int arr[N][M];
 > 
->     // قراءة الـ 2D Array
+>     // 2D Array قراءة ال
 >     for(int i = 0; i < N; i++) {
 >         for(int j = 0; j < M; j++) cin >> arr[i][j];
 >     }
 > 
 >     int x; cin >> x;
 > 
->     // الـ Linear Search
+>     // Linear Search الـ
 >     for(int i = 0; i < N; i++) {
 >         for(int j = 0; j < M; j++) {
 >             if(arr[i][j] == x) {
@@ -191,7 +191,7 @@ revision: 0
 >     int arr[N];
 >     for(int i = 0; i < N; i++) cin >> arr[i];
 > 
->     // Linear Search مع Early Exit
+> 	// Early Exit مع Linear Search
 >     for(int i = 0; i < N; i++) {
 >         if(arr[i] == x) {
 >             cout << i << endl;
@@ -342,7 +342,7 @@ revision: 0
 >     for(int i = 0; i < N; i++) cout << arr[i] << ' ';
 >     cout << endl;
 > 
->     // الترتيب التنازلي باستخدام الـ Comparator
+>     // Comparator الترتيب التنازلي باستخدام الـ
 >     sort(arr, arr + N, greater<int>());
 >     for(int i = 0; i < N; i++) cout << arr[i] << ' ';
 >     cout << endl;
@@ -486,10 +486,10 @@ revision: 0
 >     int N, q; cin >> N >> q;
 >     int arr[N + 1]; 
 >     
->     // قراءة بنظام 1-based
+>     // 1-based قراءة بنظام
 >     for(int i = 1; i <= N; i++) cin >> arr[i];
 > 
->     // معالجة الـ Queries
+>     // Queries معالجة الـ
 >     while(q--) {
 >         int l, r, x; 
 >         cin >> l >> r >> x;
@@ -646,7 +646,7 @@ revision: 0
 >     string s1, s2; cin >> s1 >> s2;
 > 
 >     for(int i = 0; i < n; i++) {
->         // لو واحد أحمر والتاني لأ نطبع NO ونقفل
+>         // ونقفل No لو واحد أحمر والتاني لأ نطبع
 >         if((s1[i] == 'R') != (s2[i] == 'R')) {
 >             cout << "NO" << endl;
 >             return; // Early Exit
@@ -692,7 +692,7 @@ revision: 0
 > void solve() {
 >     int n; cin >> n;
 >     string s; cin >> s;
->     int freq[26] = {0}; // تصفير الـ Array
+>     int freq[26] = {0}; // Array تصفير الـ 
 >     int cnt {0};
 > 
 >     for(int i = 0; i < n; i++) {
@@ -1278,7 +1278,7 @@ revision: 0
 > **C++ Template:**
 > ```cpp
 > bool is_pal[5003][5003];
->    // تعريف المصفوفة في الجلوبال علشان نتجنب الـ Stack Overflow
+>    // Stack Overflow تعريف المصفوفة في الجلوبال علشان نتجنب الـ
 > void solve() {
 >   // تصفير المصفوفة السريع
 >   memset(is_pal, false, sizeof(is_pal));
@@ -1300,11 +1300,11 @@ revision: 0
 >     while(l >= 0 && r < n && s[l] == s[r]) is_pal[l--][r++] = true;
 >   }
 > 
->   // 3. الرد على الاستعلامات في O(1)
+>   // 3. O(1) الرد على الاستعلامات في
 >   while(q--){
 >     int l, r; 
 >     cin >> l >> r;
->     l--, r--; // تحويل الـ 1-based لـ 0-based
+>     l--, r--; //  0-based <- 1-based تحويل ال
 > 
 >     cout << ((is_pal[l][r]) ? "YES" : "NO") << endl;
 >   }
