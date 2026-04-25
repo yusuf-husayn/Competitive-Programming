@@ -45,9 +45,11 @@ ostream &operator<<(ostream &output, const vector<T> &data) {
 void solve() {
   char S; cin >> S;
   int n; cin >> n;
-  vi a(n);
-  cin >> a;
-  for (int x : a) cout << string(x, S) << endl;
+  
+ while(n--){
+    int x; cin >> x;
+    cout << string(x, S) << endl;
+  }
 }
 int32_t main() {
 
