@@ -44,7 +44,7 @@ ostream &operator<<(ostream &output, const vector<T> &data) {
 
 void solve() {
   int n, x; cin >> n >> x;
-  vector<int> a(n); cin >> a;
+  vi a(n); cin >> a;
 
   for(int i : a) if(i < x) cout << i << ' ';
   for(int i : a) if(i > x) cout << i << ' ';
