@@ -11,7 +11,7 @@ tags:
   - Parity
 status: Completed
 level: Beginner
-created: 2026-04-03
+created: 2026-04-30
 updated: 2026-04-30
 problems_count: 6
 source: Codeforces
