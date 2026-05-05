@@ -21,7 +21,7 @@ revision: 0
 
 ---
 
-## 1) Three Numbers Sum (مجموع الثلاثة أرقام)
+## 1) [Three Numbers Sum (مجموع الثلاثة أرقام)](https://github.com/yusuf-husayn/Competitive-Programming/blob/main/Codeforces/Mansoura/Level%20Zero%202025%20%7C%7C%20Online/Week%20Three/Sheet%20Three%20__%20Time%20Complexity%20-%20Functions%20-%20Structs/I.%20Three%20Numbers%20Sum.cpp)
 
 > [!NOTE]
 > 
@@ -84,7 +84,7 @@ revision: 0
 
 ---
 
-## 2) Be Fast (المجموع السريع للمربعات)
+## 2) [Be Fast (المجموع السريع للمربعات)](https://github.com/yusuf-husayn/Competitive-Programming/blob/main/Codeforces/Mansoura/Level%20Zero%202025%20%7C%7C%20Online/Week%20Three/Sheet%20Three%20__%20Time%20Complexity%20-%20Functions%20-%20Structs/C.%20Be%20Fast.cpp)
 
 > [!NOTE]
 > 
@@ -131,7 +131,7 @@ revision: 0
 
 ---
 
-## 3) 3D (النجوم في الأبعاد الثلاثة)
+## 3) [3D (النجوم في الأبعاد الثلاثة)](https://github.com/yusuf-husayn/Competitive-Programming/blob/main/Codeforces/Mansoura/Level%20Zero%202025%20%7C%7C%20Online/Week%20Three/Sheet%20Three%20__%20Time%20Complexity%20-%20Functions%20-%20Structs/F.%203D.cpp)
 
 > [!NOTE]
 > 
@@ -202,7 +202,7 @@ revision: 0
 > ```
 
 ---
-## 4) Sort Rectangles (ترتيب المستطيلات)
+## 4) [Sort Rectangles (ترتيب المستطيلات)](https://github.com/yusuf-husayn/Competitive-Programming/blob/main/Codeforces/Mansoura/Level%20Zero%202025%20%7C%7C%20Online/Week%20Three/Sheet%20Three%20__%20Time%20Complexity%20-%20Functions%20-%20Structs/M.%20Sort%20Rectangles.cpp)
 
 > [!NOTE]
 > 
@@ -285,7 +285,7 @@ revision: 0
 
 ---
 
-## 5) Weird Function1 (الدالة العجيبة)
+## 5) [Weird Function1 (الدالة العجيبة)](https://github.com/yusuf-husayn/Competitive-Programming/blob/main/Codeforces/Mansoura/Level%20Zero%202025%20%7C%7C%20Online/Week%20Three/Sheet%20Three%20__%20Time%20Complexity%20-%20Functions%20-%20Structs/A.%20Weird%20Function1.cpp)
 
 > [!NOTE]
 > 
@@ -344,7 +344,7 @@ revision: 0
 
 ---
 
-## 6) Weird Function 2 (دالة النصوص العجيبة)
+## 6) [Weird Function 2 (دالة النصوص العجيبة)](https://github.com/yusuf-husayn/Competitive-Programming/blob/main/Codeforces/Mansoura/Level%20Zero%202025%20%7C%7C%20Online/Week%20Three/Sheet%20Three%20__%20Time%20Complexity%20-%20Functions%20-%20Structs/B.%20Weird%20Function%202.cpp)
 
 > [!NOTE]
 > 
@@ -397,7 +397,7 @@ revision: 0
 
 ---
 
-## 7) Vlad and the Best of Five (فلاد والأفضل من خمسة)
+## 7) [Vlad and the Best of Five (فلاد والأفضل من خمسة)](https://github.com/yusuf-husayn/Competitive-Programming/blob/main/Codeforces/Mansoura/Level%20Zero%202025%20%7C%7C%20Online/Week%20Three/Sheet%20Three%20__%20Time%20Complexity%20-%20Functions%20-%20Structs/D.%20Vlad%20and%20the%20Best%20of%20Five.cpp)
 
 > [!NOTE]
 > 
@@ -445,7 +445,7 @@ revision: 0
 > ```
 
 ---
-## 8) Highest Y (Y أعلى نقطة على محور)
+## 8) [Highest Y (Y أعلى نقطة على محور)](https://github.com/yusuf-husayn/Competitive-Programming/blob/main/Codeforces/Mansoura/Level%20Zero%202025%20%7C%7C%20Online/Week%20Three/Sheet%20Three%20__%20Time%20Complexity%20-%20Functions%20-%20Structs/E.%20Highest%20Y.cpp)
 
 > [!NOTE]
 > 
@@ -505,7 +505,7 @@ revision: 0
 
 ---
 
-## 9) Increasing (الترتيب التصاعدي الصارم)
+## 9) [Increasing (الترتيب التصاعدي الصارم)](https://github.com/yusuf-husayn/Competitive-Programming/blob/main/Codeforces/Mansoura/Level%20Zero%202025%20%7C%7C%20Online/Week%20Three/Sheet%20Three%20__%20Time%20Complexity%20-%20Functions%20-%20Structs/G.%20Increasing.cpp)
 
 > [!NOTE]
 > 
@@ -565,7 +565,7 @@ revision: 0
 > ```
 
 ---
-## 10) Be Fast 2 (العد السريع للأرقام)
+## [10) Be Fast 2 (العد السريع للأرقام)](https://github.com/yusuf-husayn/Competitive-Programming/blob/main/Codeforces/Mansoura/Level%20Zero%202025%20%7C%7C%20Online/Week%20Three/Sheet%20Three%20__%20Time%20Complexity%20-%20Functions%20-%20Structs/K.%20Be%20Fast%202.cpp)
 
 > [!NOTE]
 > 
@@ -630,7 +630,7 @@ revision: 0
 > ```
 
 ---
-## 11) Empedocles Problem (مشكلة إيمبيدوكليس)
+## 11) [Empedocles Problem (مشكلة إيمبيدوكليس)](https://github.com/yusuf-husayn/Competitive-Programming/blob/main/Codeforces/Mansoura/Level%20Zero%202025%20%7C%7C%20Online/Week%20Three/Sheet%20Three%20__%20Time%20Complexity%20-%20Functions%20-%20Structs/H.%20Empedocles%20Problem.cpp)
 
 > [!NOTE]
 >  **الفكرة التقنية (The Concept):**
@@ -686,7 +686,7 @@ revision: 0
 
 ---
 
-## 12) Dragons (التنانين)
+## 12) [Dragons (التنانين)](https://github.com/yusuf-husayn/Competitive-Programming/blob/main/Codeforces/Mansoura/Level%20Zero%202025%20%7C%7C%20Online/Week%20Three/Sheet%20Three%20__%20Time%20Complexity%20-%20Functions%20-%20Structs/J.%20Dragons.cpp)
 
 > [!NOTE]
 > 
@@ -752,7 +752,7 @@ revision: 0
 
 ---
 
-## 13) Jzzhu and Children (جيزو والأطفال)
+## 13) [Jzzhu and Children (جيزو والأطفال)](https://github.com/yusuf-husayn/Competitive-Programming/blob/main/Codeforces/Mansoura/Level%20Zero%202025%20%7C%7C%20Online/Week%20Three/Sheet%20Three%20__%20Time%20Complexity%20-%20Functions%20-%20Structs/L.%20Jzzhu%20and%20Children.cpp)
 
 > [!NOTE]
 >  **الفكرة التقنية (The Concept):**
@@ -822,7 +822,7 @@ revision: 0
 
 ---
 
-## 14) Make it Beautiful (خليها جميلة)
+## [14) Make it Beautiful (خليها جميلة)](https://github.com/yusuf-husayn/Competitive-Programming/blob/main/Codeforces/Mansoura/Level%20Zero%202025%20%7C%7C%20Online/Week%20Three/Sheet%20Three%20__%20Time%20Complexity%20-%20Functions%20-%20Structs/N.%20Make%20it%20Beautiful.cpp)
 
 > [!NOTE]
 >  **الفكرة التقنية (The Concept):**
@@ -900,7 +900,7 @@ revision: 0
 
 ---
 
-## 15) The best 3seer 2sab (أحلى عصير قصب)
+## [15) The best 3seer 2sab (أحلى عصير قصب)](https://github.com/yusuf-husayn/Competitive-Programming/blob/main/Codeforces/Mansoura/Level%20Zero%202025%20%7C%7C%20Online/Week%20Three/Sheet%20Three%20__%20Time%20Complexity%20-%20Functions%20-%20Structs/O.%20The%20best%203seer%202sab!.cpp)
 
 > [!NOTE]
 > 
@@ -1003,7 +1003,7 @@ revision: 0
 
 ---
 
-## 16) Thorns and Coins (الأشواك والعملات)
+## [16) Thorns and Coins (الأشواك والعملات)](https://github.com/yusuf-husayn/Competitive-Programming/blob/main/Codeforces/Mansoura/Level%20Zero%202025%20%7C%7C%20Online/Week%20Three/Sheet%20Three%20__%20Time%20Complexity%20-%20Functions%20-%20Structs/P.%20Thorns%20and%20Coins.cpp)
 
 > [!NOTE]
 > 
@@ -1075,7 +1075,7 @@ revision: 0
 
 ---
 
-## 17) Same Differences (الفروق المتشابهة)
+## [17) Same Differences (الفروق المتشابهة)](https://github.com/yusuf-husayn/Competitive-Programming/blob/main/Codeforces/Mansoura/Level%20Zero%202025%20%7C%7C%20Online/Week%20Three/Sheet%20Three%20__%20Time%20Complexity%20-%20Functions%20-%20Structs/Q.%20Same%20Differences.cpp)
 
 > [!NOTE]
 > 
@@ -1150,7 +1150,7 @@ revision: 0
 > ```
 
 ---
-## 18) Min Cost String (أقل تكلفة للنص)
+## [18) Min Cost String (أقل تكلفة للنص)](https://github.com/yusuf-husayn/Competitive-Programming/blob/main/Codeforces/Mansoura/Level%20Zero%202025%20%7C%7C%20Online/Week%20Three/Sheet%20Three%20__%20Time%20Complexity%20-%20Functions%20-%20Structs/S.%20Min%20Cost%20String.cpp)
 
 > [!NOTE]
 > 
@@ -1250,7 +1250,7 @@ revision: 0
 
 ---
 
-## 19) Missed Number (الرقم المفقود)
+## [19) Missed Number (الرقم المفقود)](https://github.com/yusuf-husayn/Competitive-Programming/blob/main/Codeforces/Mansoura/Level%20Zero%202025%20%7C%7C%20Online/Week%20Three/Contest%203/D.%20Missed%20Number.cpp)
 
 > [!NOTE]
 > 
@@ -1329,7 +1329,7 @@ revision: 0
 
 ---
 
-## 20) Mewwwwwwwwo (مياووو)
+## [20) Mewwwwwwwwo (مياووو)](https://github.com/yusuf-husayn/Competitive-Programming/blob/main/Codeforces/Mansoura/Level%20Zero%202025%20%7C%7C%20Online/Week%20Three/Contest%203/E.%20Mewwwwwwwwo.cpp)
 
 > [!NOTE]
 > 
@@ -1401,7 +1401,7 @@ revision: 0
 
 ---
 
-## 21) Pizza For Sameh (بيتزا لسامح)
+## [21) Pizza For Sameh (بيتزا لسامح)](https://github.com/yusuf-husayn/Competitive-Programming/blob/main/Codeforces/Mansoura/Level%20Zero%202025%20%7C%7C%20Online/Week%20Three/Contest%203/F.%20Pizza%20For%20Sameh.cpp)
 
 > [!NOTE]
 > 
@@ -1478,7 +1478,7 @@ revision: 0
 
 ---
 
-## 22) My Last Sorting Problem (مشكلة الترتيب الأخيرة)
+## [22) My Last Sorting Problem (مشكلة الترتيب الأخيرة)](https://github.com/yusuf-husayn/Competitive-Programming/blob/main/Codeforces/Mansoura/Level%20Zero%202025%20%7C%7C%20Online/Week%20Three/Contest%203/G.%20My%20Last%20Sorting%20Problem.cpp)
 
 > [!NOTE] 
 > **الفكرة التقنية (The Concept)**
