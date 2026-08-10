@@ -16,6 +16,7 @@ Random competitive programming solutions (and other stuff).
 
 - Sheets solutions
 - Contests Archive solutions
+- Problemset solutions
 
 ## 📌 Note:
 
